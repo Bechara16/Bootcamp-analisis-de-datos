@@ -1,0 +1,101 @@
+﻿ID;País;Ciudad;Edad;Tipo;Motivo;Días;Gasto_USD
+1;México;CDMX;21;Nacional;Negocios;3;315
+2;España;Madrid;22;Internacional;Cultura;4;330
+3;Colombia;Bogotá;23;Nacional;Familiar;5;345
+4;Argentina;Buenos Aires;24;Internacional;Turismo;6;360
+5;Chile;Santiago;25;Nacional;Negocios;7;375
+6;Perú;Lima;26;Internacional;Cultura;8;390
+7;Brasil;São Paulo;27;Nacional;Familiar;9;405
+8;Francia;París;28;Internacional;Turismo;2;420
+9;Alemania;Berlín;29;Nacional;Negocios;3;435
+10;Canadá;Toronto;30;Internacional;Cultura;4;450
+11;Ecuador;Quito;31;Nacional;Familiar;5;465
+12;USA;Miami;32;Internacional;Turismo;6;480
+13;México;CDMX;33;Nacional;Negocios;7;495
+14;España;Madrid;34;Internacional;Cultura;8;510
+15;Colombia;Bogotá;35;Nacional;Familiar;9;525
+16;Argentina;Buenos Aires;36;Internacional;Turismo;2;540
+17;Chile;Santiago;37;Nacional;Negocios;3;555
+18;Perú;Lima;38;Internacional;Cultura;4;570
+19;Brasil;São Paulo;39;Nacional;Familiar;5;585
+20;Francia;París;40;Internacional;Turismo;6;600
+21;Alemania;Berlín;41;Nacional;Negocios;7;615
+22;Canadá;Toronto;42;Internacional;Cultura;8;630
+23;Ecuador;Quito;43;Nacional;Familiar;9;645
+24;USA;Miami;44;Internacional;Turismo;2;660
+25;México;CDMX;45;Nacional;Negocios;3;675
+26;España;Madrid;46;Internacional;Cultura;4;690
+27;Colombia;Bogotá;47;Nacional;Familiar;5;705
+28;Argentina;Buenos Aires;48;Internacional;Turismo;6;720
+29;Chile;Santiago;49;Nacional;Negocios;7;735
+30;Perú;Lima;50;Internacional;Cultura;8;750
+31;Brasil;São Paulo;51;Nacional;Familiar;9;765
+32;Francia;París;52;Internacional;Turismo;2;780
+33;Alemania;Berlín;53;Nacional;Negocios;3;795
+34;Canadá;Toronto;54;Internacional;Cultura;4;810
+35;Ecuador;Quito;20;Nacional;Familiar;5;825
+36;USA;Miami;21;Internacional;Turismo;6;840
+37;México;CDMX;22;Nacional;Negocios;7;855
+38;España;Madrid;23;Internacional;Cultura;8;870
+39;Colombia;Bogotá;24;Nacional;Familiar;9;885
+40;Argentina;Buenos Aires;25;Internacional;Turismo;2;900
+41;Chile;Santiago;26;Nacional;Negocios;3;915
+42;Perú;Lima;27;Internacional;Cultura;4;930
+43;Brasil;São Paulo;28;Nacional;Familiar;5;945
+44;Francia;París;29;Internacional;Turismo;6;960
+45;Alemania;Berlín;30;Nacional;Negocios;7;975
+46;Canadá;Toronto;31;Internacional;Cultura;8;990
+47;Ecuador;Quito;32;Nacional;Familiar;9;1005
+48;USA;Miami;33;Internacional;Turismo;2;1020
+49;México;CDMX;34;Nacional;Negocios;3;1035
+50;España;Madrid;35;Internacional;Cultura;4;1050
+51;Colombia;Bogotá;36;Nacional;Familiar;5;1065
+52;Argentina;Buenos Aires;37;Internacional;Turismo;6;1080
+53;Chile;Santiago;38;Nacional;Negocios;7;1095
+54;Perú;Lima;39;Internacional;Cultura;8;1110
+55;Brasil;São Paulo;40;Nacional;Familiar;9;1125
+56;Francia;París;41;Internacional;Turismo;2;1140
+57;Alemania;Berlín;42;Nacional;Negocios;3;1155
+58;Canadá;Toronto;43;Internacional;Cultura;4;1170
+59;Ecuador;Quito;44;Nacional;Familiar;5;1185
+60;USA;Miami;45;Internacional;Turismo;6;1200
+61;México;CDMX;46;Nacional;Negocios;7;1215
+62;España;Madrid;47;Internacional;Cultura;8;1230
+63;Colombia;Bogotá;48;Nacional;Familiar;9;1245
+64;Argentina;Buenos Aires;49;Internacional;Turismo;2;1260
+65;Chile;Santiago;50;Nacional;Negocios;3;1275
+66;Perú;Lima;51;Internacional;Cultura;4;1290
+67;Brasil;São Paulo;52;Nacional;Familiar;5;1305
+68;Francia;París;53;Internacional;Turismo;6;1320
+69;Alemania;Berlín;54;Nacional;Negocios;7;1335
+70;Canadá;Toronto;20;Internacional;Cultura;8;1350
+71;Ecuador;Quito;21;Nacional;Familiar;9;1365
+72;USA;Miami;22;Internacional;Turismo;2;1380
+73;México;CDMX;23;Nacional;Negocios;3;1395
+74;España;Madrid;24;Internacional;Cultura;4;1410
+75;Colombia;Bogotá;25;Nacional;Familiar;5;1425
+76;Argentina;Buenos Aires;26;Internacional;Turismo;6;1440
+77;Chile;Santiago;27;Nacional;Negocios;7;1455
+78;Perú;Lima;28;Internacional;Cultura;8;1470
+79;Brasil;São Paulo;29;Nacional;Familiar;9;1485
+80;Francia;París;30;Internacional;Turismo;2;1500
+81;Alemania;Berlín;31;Nacional;Negocios;3;1515
+82;Canadá;Toronto;32;Internacional;Cultura;4;1530
+83;Ecuador;Quito;33;Nacional;Familiar;5;1545
+84;USA;Miami;34;Internacional;Turismo;6;1560
+85;México;CDMX;35;Nacional;Negocios;7;1575
+86;España;Madrid;36;Internacional;Cultura;8;1590
+87;Colombia;Bogotá;37;Nacional;Familiar;9;1605
+88;Argentina;Buenos Aires;38;Internacional;Turismo;2;1620
+89;Chile;Santiago;39;Nacional;Negocios;3;1635
+90;Perú;Lima;40;Internacional;Cultura;4;1650
+91;Brasil;São Paulo;41;Nacional;Familiar;5;1665
+92;Francia;París;42;Internacional;Turismo;6;1680
+93;Alemania;Berlín;43;Nacional;Negocios;7;1695
+94;Canadá;Toronto;44;Internacional;Cultura;8;1710
+95;Ecuador;Quito;45;Nacional;Familiar;9;1725
+96;USA;Miami;46;Internacional;Turismo;2;1740
+97;México;CDMX;47;Nacional;Negocios;3;1755
+98;España;Madrid;48;Internacional;Cultura;4;1770
+99;Colombia;Bogotá;49;Nacional;Familiar;5;1785
+100;Argentina;Buenos Aires;50;Internacional;Turismo;6;1800
